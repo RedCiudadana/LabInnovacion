@@ -17004,6 +17004,14 @@ input:-moz-placeholder {
     color: white;
     font-size: 25px;
 }
+.centrado3{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    z-index: 5;
+}
 
 .contenedor{
     position: relative;
