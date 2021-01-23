@@ -16987,7 +16987,16 @@ input:-moz-placeholder {
   color: #333333;
 }
 
+.opacity08{
+	opacity: 0.8;
+}
+
+.bk10030{
+	background-size:100% 30vw!important;
+}
+
 /*Imagenes con texto*/
+
 .centrado{
     position: absolute;
     top: 15%;
@@ -17025,4 +17034,119 @@ input:-moz-placeholder {
   max-width: 50%;
   padding: 0.5rem 2rem;	
   margin: 1rem 0 1rem 25%;
+}
+
+.text-orange{
+	color: orange!important;
+}
+
+.text-left{
+	text-align: left!important;
+}
+
+.mar0b{
+	margin-bottom: 0!important
+}
+
+.mar1010{
+	margin: 10px 0 10px  0;
+}
+
+.mar1515p{
+	margin:0 15% 0 15%;
+}
+
+.pad0{
+	padding: 0!important;
+}
+
+.pad0b{
+	padding-bottom: 0!important;
+}
+
+.padT05{
+	padding-top: 5px;
+}
+
+.pad0101{
+	padding: 0 1rem 0 1rem;
+}
+
+.pad0100{
+	padding: 0 1rem 0 0;
+}
+
+.pad1100{
+	padding: 1rem 1rem 0 0;
+}
+
+.pad11001{
+	padding: 1.2rem 1rem 0 0;
+}
+
+.pad0300{
+	padding-right: 30%;
+}
+
+.pad0300{
+	padding-left: 90px;
+}
+
+.pad1515{
+	padding: 0 15px!important 0 15px!important;
+}
+
+.pad00010{
+	padding-left: 10%!important;
+}
+
+.pad5040{
+	padding: 50px 0 40px 0;
+}
+
+.ft12{
+	font-size: 12px!important;
+}
+
+.ft30{
+	font-size: 30px!important
+}
+
+.tam5{
+	height: 5vw!important;
+}
+
+.tam30{
+	height: 30vw!important;
+}
+
+.tam45{
+	height: 45px;
+}
+
+.tam100{
+	height: 100%;
+	width: 100%;
+}
+
+.txt6{
+	font-size: 6vw;
+}
+
+.centrado5{
+	display: block; 
+	margin: auto;
+}
+
+.centrado4{
+	justify-content: center;
+}
+
+.slider{
+	position: absolute; 
+	top: 0; 
+	height: 30vw!important; 
+	width: 100vw; 
+	text-align: 
+	center; display: flex;
 }
