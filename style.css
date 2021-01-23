@@ -16995,6 +16995,15 @@ input:-moz-placeholder {
 	background-size:100% 30vw!important;
 }
 
+.bk10025{
+	background-size:100% 25vw!important;
+	background-repeat: no-repeat;
+}
+
+.size100{
+	size: 100%;
+}
+
 /*Imagenes con texto*/
 
 .centrado{
@@ -17064,6 +17073,14 @@ input:-moz-placeholder {
 	padding-bottom: 0!important;
 }
 
+.pad0l{
+	padding-left: : 0!important;
+}
+
+.pad10l{
+	padding-left: : 10px!important;
+}
+
 .padT05{
 	padding-top: 5px;
 }
@@ -17110,6 +17127,10 @@ input:-moz-placeholder {
 
 .ft30{
 	font-size: 30px!important
+}
+
+.tam2rem{
+
 }
 
 .tam5{
