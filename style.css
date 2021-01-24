@@ -17037,6 +17037,10 @@ input:-moz-placeholder {
     text-align: center;
 }
 
+.br15{
+	border-radius: 15px;
+}
+
 .cuadroG{
   background-color: #ccc;
   color: #fff;
@@ -17152,6 +17156,10 @@ input:-moz-placeholder {
 
 .txt6{
 	font-size: 6vw;
+}
+
+.txt2{
+	font-size: 2vw;
 }
 
 .centrado5{
